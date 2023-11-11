@@ -1,0 +1,5 @@
+spring:
+  datasource:
+    username: postgres
+    url: jdbc:postgresql://db.rtiadyzsjbktgtmmhtnl.supabase.co:5432/postgres
+    password: H9_7!8yxB$HhV*9
