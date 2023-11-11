@@ -1,6 +1,2 @@
 databaseChangeLog:
-  - changeSet:
-      id: 0
-      author: admin
-      changes:
-        -
+  - test rule
